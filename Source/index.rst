@@ -2,6 +2,14 @@
 Solution Development and Implementation
 =======================================
 
+
+.. toctree::
+	:maxdepth: 2
+	:titlesonly:
+
+	example.rst
+
+
 -------------------------
 Code Reflection Principal
 -------------------------
@@ -49,7 +57,7 @@ Code Reflection Principal
 
     Any subset Requirement of another requirement.
 
-    This means that if A is a Sub Requirement of R then :math:`A \neq R \land A \subset R`.
+    /This means that if A is a Sub Requirement of R then :math:`A \neq R \land A \subset R`.
 
 .. topic:: Project Requirement
 
